@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "A modern AI-powered studying assistant that explains topics in simple terms, generates interactive quizzes, and delivers daily motivational quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
